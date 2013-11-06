@@ -10,5 +10,6 @@ Better translations of Minecraft Mods may also go into here.
 Credits:
 --------
 
-@Vexatos (German)
-@VeryBigBro (Russian)
+Vexatos (German)
+
+VeryBigBro (Russian)
