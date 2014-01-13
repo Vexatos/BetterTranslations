@@ -9,7 +9,7 @@ Better translations of Minecraft Mods may also go into here.
 
 ###License:
 
-The BetterTranslations Resource Pack is licensed under Calclavia's Restricted Public License (http://calclavia.com/license/rpl). By using or interacting with this software in any way shape or form, you agree to the license of this software.
+The BetterTranslations Resource Pack is licensed under Calclavia's Restricted Public License (http://calclavia.com/educational-public-license/). By using or interacting with this software in any way shape or form, you agree to the license of this software.
 
 ###Credits:
 
