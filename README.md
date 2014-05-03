@@ -15,4 +15,4 @@ The BetterTranslations Resource Pack is licensed under Calclavia's Educational P
 
 Vexatos (German)
 
-VeryBigBro (Russian)
+Adaptivity (Russian)
