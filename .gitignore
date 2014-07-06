@@ -1,20 +1,9 @@
-*.class
+/*
 
-# Package Files #
-*.war
-*.ear
+# folders
+!/BetterTranslations
 
-# To ignore misc files #
-build.properties
-build/
-packs/
-downloads/
-misc/
-
-# Windows Stuff #
-Thumbs.db
-.DS_Store
-
-build.bat
-clean.bat
-/bin
+# files
+!/.gitignore
+!/README.md
+!/LICENSE.md
