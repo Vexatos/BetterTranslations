@@ -5,7 +5,7 @@ This is the Repository for the BetterTranslaions Resource Pack, a place where Va
 
 The Resource Pack, for anyone free to use (as long as the license is being complied with). If you have time and you think the Minecraft translation of a language you are speaking needs improvement, go ahead and improve it here.
 
-Better translations of Minecraft Mods should go here: [LocalizationsForMCFMods](https://github.com/Adaptivity/LocalizationsForMCFMods).
+Better translations of Minecraft Mods should go here: [LocalizationsForMCFMods](https://github.com/Adaptivity/LocalizationsForMCFMods)
 
 ###License:
 
