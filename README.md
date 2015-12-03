@@ -16,3 +16,5 @@ The BetterTranslations Resource Pack is licensed under [Calclavia's Educational 
 Vexatos (German)
 
 Adaptivity (Russian)
+
+Mazdallier (French)
